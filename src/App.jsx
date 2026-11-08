@@ -526,7 +526,8 @@ function App() {
       <footer className="page-footer">
         Данните се зареждат от{" "}
         <a href={SHEET_PAGE} target="_blank" rel="noreferrer">Google Sheets</a>.
-        Мартенският сценарий е хипотетичен и служи за учебна дискусия.
+        Мартенският сценарий е хипотетичен и служи за учебна дискусия. Дизайна на сайта е направен
+        от <a href="https://pvidev.dev/" target="_blank" rel="noreferrer">PVidev Dev.</a>
       </footer>
     </main>
   );
